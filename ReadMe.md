@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full Stack Web Development projects using the MERN stack.<br><br>👯 I’m looking to collaborate on Open Source projects and real-world web applications.<br><br>🤝 I’m looking for help with System Design, DevOps, and advanced backend development.<br><br>🌱 I’m currently learning Advanced React.js, Node.js, SQL, Prisma, and Docker.<br><br>💬 Ask me about React.js, Node.js, Express.js, MongoDB, REST APIs, and Full Stack Development.<br><br>⚡ Fun fact: I love turning ideas into real-world applications and learning new technologies by building projects.<br>
+ I’m currently working on Full Stack Web Development projects using the MERN stack.<br><br> I’m looking to collaborate on Open Source projects and real-world web applications.<br><br>I’m looking for help with System Design, DevOps, and advanced backend development.<br><br> I’m currently learning Advanced React.js, Node.js, SQL, Prisma, and Docker.<br><br> Ask me about React.js, Node.js, Express.js, MongoDB, REST APIs, and Full Stack Development.<br><br> Fun fact: I love turning ideas into real-world applications and learning new technologies by building projects.<br>
 
 
 ## 🌐 Socials:
